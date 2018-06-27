@@ -1,0 +1,18 @@
+{
+  "name": "dgtodolist",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^27.0.0",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-27.0.0.tar.gz",
+    "firebase": "5.1.0",
+    "react-native-customisable-switch": "0.1.0",
+    "react-native-elements": "0.18.5",
+    "react-native-swipeout": "2.3.3",
+    "react-navigation": "2.1.0"
+  }
+}
