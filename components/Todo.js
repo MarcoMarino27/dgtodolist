@@ -19,6 +19,8 @@ export default class Todo extends Component {
     date: '',
     remind: false,
   };
+  
+  //Ciao
 
   componentWillMount() {
     this.setState({
